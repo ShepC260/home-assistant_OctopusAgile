@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # home-assistant_OctopusAgile
 Octopus Agile custom component for Home Assistant, this version is designed to work along side the OctupusEnergy Home Assittant a custom component by BottleCapDave
 
